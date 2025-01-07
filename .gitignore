@@ -78,3 +78,5 @@ configure.scan
 *stamp-h1
 benchmarks/
 bin/
+
+.codegpt
